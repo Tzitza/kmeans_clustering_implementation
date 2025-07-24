@@ -100,13 +100,6 @@ The algorithm successfully clusters the generated data into three distinct group
 - Convergence of cluster centers to optimal positions
 - Decreasing SSE values across iterations until convergence
 
-## Assignment Details
-
-- **Course**: Data Mining (Εξόρυξη Δεδομένων)
-- **Institution**: Department of Computer Science and Telecommunications, University of Ioannina
-- **Submission Date**: January 5, 2025
-- **Student ID**: ΤΖΙΤΖΑ_2589
-
 ## License
 
 This project is developed for educational purposes as part of a university assignment.
